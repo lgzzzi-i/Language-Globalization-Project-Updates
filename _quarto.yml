@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Minority Languages and Globalization Project Updates"
+  navbar:
+    left:
+      - href: language-data-driven/language.ipynb
+        text: "Narrative Model"
+      - href: about.qmd
+        text: About Me
+
+execute: 
+  echo: false
+  freeze: auto
+
+format:
+  html:
+    theme: custom.scss
+    mainfont: "Times New Roman"
+    toc: true
+
+
+

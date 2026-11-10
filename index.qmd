@@ -1,0 +1,13 @@
+---
+title: "Minority Languages and Globalization Project Updates"
+bibliography: references.bib
+nocite: |
+    @Forkel2024cld 
+---
+
+Through this project, I aim to discuss how globalization continues to negatively impact minority language survival. Furthermore, my combination of static and dynamic graphics will engage with how AI may or may not prove a viable solution to language revitalization in 2026 and beyond. 
+
+This website holds my most recent visualizations, and I will eventually deploy the entire narrative onto an independent website domain. Until then, enjoy my work here!
+
+Sources:
+@Forkel2024cldf

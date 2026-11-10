@@ -1,0 +1,16 @@
+---
+title: "Lila Gizzie"
+image: images/headshot.png
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lilagizzie
+    - icon: envelope
+      text: Email
+      href: mailto:lg1123@georgetown.edu
+---
+
+I am a sophomore at Georgetown Univeristy double majoring in Computer Science and German. 
+My interests beyond these disciplines include cultural/linguistic anthropology, international cybersecurity, and space technology. 

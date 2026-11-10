@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "language-data-driven/language.html",
+    "href": "language-data-driven/language.html",
+    "title": "Minority Language Survival Under the Pressure of 2026 Globalization and the AI Frontier",
+    "section": "",
+    "text": "---------------------------------------------------------------------------\nValueError                                Traceback (most recent call last)\nCell In[59], line 7\n      3 ax.set_title(\"Endangerment levels by Geographic Region\")\n      4 ax.set_xlabel(\"Number of Languages\")\n      5 ax.set_ylabel(\"Level of Endangerment\")\n      6 \n----&gt; 7 sns.move_legend(ax, \"lower left\")\n\nFile ~/miniforge3/envs/math-1505/lib/python3.12/site-packages/seaborn/utils.py:432, in move_legend(obj, loc, **kwargs)\n    430 if old_legend is None:\n    431     err = f\"{obj} has no legend attached.\"\n--&gt; 432     raise ValueError(err)\n    434 # Extract the components of the legend we need to reuse\n    435 # Import here to avoid a circular import\n    436 from seaborn._compat import get_legend_handles\n\nValueError: Axes(0.125,0.11;0.775x0.77) has no legend attached."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Lila Gizzie",
+    "section": "",
+    "text": "I am a sophomore at Georgetown Univeristy double majoring in Computer Science and German. My interests beyond these disciplines include cultural/linguistic anthropology, international cybersecurity, and space technology."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Minority Languages and Globalization Project Updates",
+    "section": "",
+    "text": "Through this project, I aim to discuss how globalization continues to negatively impact minority language survival. Furthermore, my combination of static and dynamic graphics will engage with how AI may or may not prove a viable solution to language revitalization in 2026 and beyond.\nThis website holds my most recent visualizations, and I will eventually deploy the entire narrative onto an independent website domain. Until then, enjoy my work here!\nSources: Forkel (2024)\n\n\n\n\nReferences\n\nForkel, Robert. 2024. Cldf-Datasets/Elcat. Https://github.com/cldf-datasets/elcat. https://github.com/cldf-datasets/elcat."
+  }
+]
